@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497336725137",
+    "project_id": "faceook-20498",
+    "storage_bucket": "faceook-20498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497336725137:android:d2258c1cb06f9d1840d930",
+        "android_client_info": {
+          "package_name": "com.projectone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfeSZqFiRu_8kAUQIGYkNJi_VjAAhf7_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
